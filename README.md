@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Sahil 👋
 
-<!--
-**sahil-codez/sahil-codez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Generative AI Engineer | Forward Deployed Engineer
 
-Here are some ideas to get you started:
+Building and deploying AI-powered solutions to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on developing production-ready GenAI applications, intelligent agents, and scalable AI systems — bridging the gap between cutting-edge AI and practical business needs.
+
+ Areas of Focus
+
+- Generative AI & LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Agentic Workflows
+- Backend Development & API Integrations
+- AI Systems Deployment & Optimization
+- Forward Deployed Engineering
+
+Tech Stack
+
+- Languages: Python, Javascript , Typescript 
+- AI/ML: LLMs, LangChain, LangGraph, Hugging Face
+- Frontend: React , Next.js , Tailwind CSS
+- Backend: FastAPI, REST APIs
+- Databases: PostgreSQL, ChromaDB
+- Infrastructure: Docker, Git, AWS 
